@@ -7,3 +7,7 @@ This is my first time trying markdown, a lightweight language for text formattin
 
 
 ![Image of supermario](https://www.pexels.com/photo/focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036/)
+
+```python
+def greet():
+  return "Hello, world!"
